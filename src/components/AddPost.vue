@@ -161,7 +161,7 @@
 
 <script>
 export default {
-  el: "#app",
+ 
   data: () => ({
     valid: true,
     task: "",
