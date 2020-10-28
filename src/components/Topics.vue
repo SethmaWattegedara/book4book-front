@@ -1,4 +1,5 @@
 <template>
+<v-main>
 <v-row >
     <v-col>
   <v-card
@@ -176,9 +177,12 @@
 
 </v-row>
 
-
+</v-main>
 </template>
 
 <script>
-  export default {}
+  export default {
+
+   
+  }
 </script>
